@@ -1,0 +1,502 @@
+{
+    "skills": [
+        {
+            "name": "Block Placing"
+        },
+        {
+            "name": "Armour Rock Inspection"
+        },
+        {
+            "name": "Core-loc Placing"
+        },
+        {
+            "name": "Core-loc removal"
+        },
+        {
+            "name": "Core-loc Inspection"
+        },
+        {
+            "name": "Accropodes Placing"
+        },
+        {
+            "name": "Accropodes Removal"
+        },
+        {
+            "name": "Accropodes Inspection"
+        },
+        {
+            "name": "X block placing"
+        },
+        {
+            "name": "X block removal"
+        },
+        {
+            "name": "X block inspection"
+        },
+        {
+            "name": "Tetrapod Placing"
+        },
+        {
+            "name": "Tetrapod Removal"
+        },
+        {
+            "name": "Tetrapod Inspection"
+        },
+        {
+            "name": "Silt Inspection"
+        },
+        {
+            "name": "Search and Recovery"
+        },
+        {
+            "name": "SPM Inspection"
+        },
+        {
+            "name": "SPM Maintenance"
+        },
+        {
+            "name": "Jacket Maintenance"
+        },
+        {
+            "name": "Riser cutting"
+        },
+        {
+            "name": "Jacket Decommissioning"
+        },
+        {
+            "name": "Airlifting"
+        },
+        {
+            "name": "Rigging and slinging"
+        },
+        {
+            "name": "Dam Repair"
+        },
+        {
+            "name": "Grouting"
+        },
+        {
+            "name": "Pipeline Protection"
+        },
+        {
+            "name": "Anti-scour rectification"
+        },
+        {
+            "name": "Underlayer inspection"
+        },
+        {
+            "name": "Videography"
+        },
+        {
+            "name": "Fender Fixing"
+        },
+        {
+            "name": "Aggregate leveling"
+        },
+        {
+            "name": "Screeding"
+        },
+        {
+            "name": "Crack Repair"
+        },
+        {
+            "name": "Epoxy filling"
+        },
+        {
+            "name": "Grit Blasting"
+        },
+        {
+            "name": "Trench Inspection"
+        },
+        {
+            "name": "Wet Welder"
+        },
+        {
+            "name": "Cutting"
+        },
+        {
+            "name": "Seabed Survey"
+        },
+        {
+            "name": "Geotextile Placing"
+        },
+        {
+            "name": "Jacket Installation"
+        },
+        {
+            "name": "Anode Installation"
+        },
+        {
+            "name": "Waterjetting"
+        },
+        {
+            "name": "Type 1 cleaning"
+        },
+        {
+            "name": "Type 2 cleaning"
+        },
+        {
+            "name": "Type 3 Cleaning"
+        },
+        {
+            "name": "Cathodic Protection (CP)"
+        },
+        {
+            "name": "Ultrasonic Testing (UT)"
+        },
+        {
+            "name": "Magnetic Particle Inspection (MPI)"
+        },
+        {
+            "name": "Continuity Cable Installation"
+        },
+        {
+            "name": "Conductor Cutting"
+        },
+        {
+            "name": "Riser Inspection"
+        },
+        {
+            "name": "Hull Cleaning"
+        },
+        {
+            "name": "General Hull Survey"
+        },
+        {
+            "name": "Class Survey"
+        },
+        {
+            "name": "Propeller Cleaning"
+        },
+        {
+            "name": "Brush Guard Cleaning"
+        },
+        {
+            "name": "Inspection and Videography"
+        },
+        {
+            "name": "Pipeline Installation"
+        },
+        {
+            "name": "Spool Installation"
+        },
+        {
+            "name": "Pipeline Cleaning"
+        },
+        {
+            "name": "Pipeline Leak Fixing"
+        },
+        {
+            "name": "Underwater Welding"
+        },
+        {
+            "name": "Underwater Rigging"
+        },
+        {
+            "name": "Underwater Inspection"
+        },
+        {
+            "name": "Marine Salvage"
+        },
+        {
+            "name": "Underwater Cutting"
+        },
+        {
+            "name": "Marine Construction"
+        },
+        {
+            "name": "Hyperbaric Medicine Support"
+        },
+        {
+            "name": "Underwater Robotics Operation"
+        },
+        {
+            "name": "Marine Environmental Monitoring"
+        },
+        {
+            "name": "Underwater Data Collection"
+        },
+        {
+            "name": "Marine Research"
+        },
+        {
+            "name": "Shipwreck Exploration"
+        },
+        {
+            "name": "Diving Equipment Maintenance"
+        },
+        {
+            "name": "Underwater Geotechnical Work"
+        },
+        {
+            "name": "Marine Safety Operations"
+        },
+        {
+            "name": "Offshore Oil and Gas Operations"
+        },
+        {
+            "name": "Underwater Cable Installation"
+        },
+        {
+            "name": "Marine Archaeology"
+        },
+        {
+            "name": "Environmental Impact Assessments"
+        },
+        {
+            "name": "Underwater Dismantling"
+        },
+        {
+            "name": "Concrete Formwork Installation"
+        },
+        {
+            "name": "Underwater Reinforcement Installation"
+        },
+        {
+            "name": "Underwater Corrosion Control"
+        },
+        {
+            "name": "Subsea Valve Operation"
+        },
+        {
+            "name": "Underwater Pipe Insulation"
+        },
+        {
+            "name": "Marine Ecosystem Assessment"
+        },
+        {
+            "name": "Underwater Structure Maintenance"
+        },
+        {
+            "name": "Seafloor Mapping"
+        },
+        {
+            "name": "Subsea Equipment Deployment"
+        },
+        {
+            "name": "Underwater Grouting"
+        },
+        {
+            "name": "Marine Habitat Restoration"
+        },
+        {
+            "name": "Underwater Trenching"
+        },
+        {
+            "name": "Underwater Pipeline Coating"
+        },
+        {
+            "name": "Subsea Wellhead Installation"
+        },
+        {
+            "name": "Underwater Rig Maintenance"
+        },
+        {
+            "name": "Marine Structural Analysis"
+        },
+        {
+            "name": "Submarine Cable Repair"
+        },
+        {
+            "name": "Marine Pollution Monitoring"
+        },
+        {
+            "name": "Underwater Anomaly Detection"
+        },
+        {
+            "name": "Underwater Debris Removal"
+        },
+        {
+            "name": "Subsea Data Logger Installation"
+        },
+        {
+            "name": "Underwater Tool Operation"
+        },
+        {
+            "name": "Marine Energy Infrastructure Inspection"
+        },
+        {
+            "name": "Underwater Anchor Placement"
+        },
+        {
+            "name": "Marine Safety Inspections"
+        },
+        {
+            "name": "Underwater Drilling Support"
+        },
+        {
+            "name": "Underwater Sensor Calibration"
+        },
+        {
+            "name": "Subsea Hydraulic System Maintenance"
+        },
+        {
+            "name": "Marine Construction Site Surveying"
+        },
+        {
+            "name": "Site Supervisor"
+        },
+        {
+            "name": "Construction Manager"
+        },
+        {
+            "name": "Project Supervisor"
+        },
+        {
+            "name": "Site Manager"
+        },
+        {
+            "name": "Field Superintendent"
+        },
+        {
+            "name": "Operations Manager"
+        },
+        {
+            "name": "Rigging Technician"
+        },
+        {
+            "name": "Heavy Lift Rigger"
+        },
+        {
+            "name": "Load Specialist"
+        },
+        {
+            "name": "Crane Rigger"
+        },
+        {
+            "name": "Lift Planner"
+        },
+        {
+            "name": "Rigging Foreman"
+        },
+        {
+            "name": "Traffic Controller"
+        },
+        {
+            "name": "Signaller"
+        },
+        {
+            "name": "Signal Person"
+        },
+        {
+            "name": "Construction Flagger"
+        },
+        {
+            "name": "Safety Flagman"
+        },
+        {
+            "name": "Lane Closure Technician"
+        },
+        {
+            "name": "Tower Crane Operator"
+        },
+        {
+            "name": "Mobile Crane Operator"
+        },
+        {
+            "name": "Rough Terrain Crane Operator"
+        },
+        {
+            "name": "Overhead Crane Operator"
+        },
+        {
+            "name": "Hoisting Equipment Operator"
+        },
+        {
+            "name": "Crawler Crane Operator"
+        },
+        {
+            "name": "Dump Truck Driver"
+        },
+        {
+            "name": "Off-Highway Truck Operator"
+        },
+        {
+            "name": "Articulated Hauler Driver"
+        },
+        {
+            "name": "Heavy-Duty Truck Operator"
+        },
+        {
+            "name": "Mining Truck Driver"
+        },
+        {
+            "name": "Quarry Dumper Driver"
+        },
+        {
+            "name": "Lift Truck Operator"
+        },
+        {
+            "name": "Warehouse Forklift Operator"
+        },
+        {
+            "name": "Reach Truck Operator"
+        },
+        {
+            "name": "Pallet Jack Operator"
+        },
+        {
+            "name": "Telehandler Operator"
+        },
+        {
+            "name": "Material Handling Operator"
+        },
+        {
+            "name": "Excavator Operator"
+        },
+        {
+            "name": "Backhoe Operator"
+        },
+        {
+            "name": "Loader Operator"
+        },
+        {
+            "name": "Bulldozer Operator"
+        },
+        {
+            "name": "Skid Steer Operator"
+        },
+        {
+            "name": "Dozer Operator"
+        },
+        {
+            "name": "Graders Operator"
+        },
+        {
+            "name": "Trencher Operator"
+        },
+        {
+            "name": "Roller Operator"
+        },
+        {
+            "name": "Compactor Operator"
+        },
+        {
+            "name": "Concrete Mixer Operator"
+        },
+        {
+            "name": "Asphalt Paver Operator"
+        },
+        {
+            "name": "Crane Dispatcher"
+        },
+        {
+            "name": "Forklift Driver"
+        },
+        {
+            "name": "Scaffold Erector"
+        },
+        {
+            "name": "Hoist Operator"
+        },
+        {
+            "name": "Material Handler"
+        },
+        {
+            "name": "Heavy Equipment Mechanic"
+        },
+        {
+            "name": "Equipment Rental Coordinator"
+        }
+    ]
+}

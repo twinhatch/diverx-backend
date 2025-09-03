@@ -1,0 +1,589 @@
+{
+    "profession": [
+        {
+            "name": "Commercial Diver"
+        },
+        {
+            "name": "Saturation Diver"
+        },
+        {
+            "name": "Surface Supplied Diver"
+        },
+        {
+            "name": "Hazmat Diver"
+        },
+        {
+            "name": "Inland/Onshore Diver"
+        },
+        {
+            "name": "Diving Supervisor"
+        },
+        {
+            "name": "Dive Safety Officer"
+        },
+        {
+            "name": "Diving Superintendent"
+        },
+        {
+            "name": "Diving Project Manager"
+        },
+        {
+            "name": "Inspection Diver"
+        },
+        {
+            "name": "Underwater Welder"
+        },
+        {
+            "name": "Offshore Diver"
+        },
+        {
+            "name": "Scientific Diver"
+        },
+        {
+            "name": "Media Diver"
+        },
+        {
+            "name": "Military Diver"
+        },
+        {
+            "name": "Search and Rescue Diver"
+        },
+        {
+            "name": "Public Safety Diver"
+        },
+        {
+            "name": "Diving Equipment Technician"
+        },
+        {
+            "name": "Hyperbaric Technician"
+        },
+        {
+            "name": "ROV (Remotely Operated Vehicle) Pilot"
+        },
+        {
+            "name": "Marine Engineer"
+        },
+        {
+            "name": "Dive Medic"
+        },
+        {
+            "name": "3.1u Diver"
+        },
+        {
+            "name": "3.2u Diver"
+        },
+        {
+            "name": "3.3u Diver"
+        },
+        {
+            "name": "3.4u Diver"
+        },
+        {
+            "name": "Diving Consultant"
+        },
+        {
+            "name": "Scuba Instructor"
+        },
+        {
+            "name": "Dive Master"
+        },
+        {
+            "name": "Freediving Instructor"
+        },
+        {
+            "name": "Technical Diving Instructor"
+        },
+        {
+            "name": "Marine Biologist"
+        },
+        {
+            "name": "Underwater Archaeologist"
+        },
+        {
+            "name": "Underwater Photographer/Videographer"
+        },
+        {
+            "name": "Diving Bell Operator"
+        },
+        {
+            "name": "Diving Medical Technician"
+        },
+        {
+            "name": "Commercial Diving Instructor"
+        },
+        {
+            "name": "Offshore Installation Manager (OIM)"
+        },
+        {
+            "name": "Salvage Diver"
+        },
+        {
+            "name": "Pipeline Diver"
+        },
+        {
+            "name": "Diving Operations Coordinator"
+        },
+        {
+            "name": "Diving Risk Assessor"
+        },
+        {
+            "name": "Saturation System Technician"
+        },
+        {
+            "name": "Aquaculture Diver"
+        },
+        {
+            "name": "Diving Contractor"
+        },
+        {
+            "name": "Environmental Diver"
+        },
+        {
+            "name": "Underwater Cutting Specialist"
+        },
+        {
+            "name": "Diving Logistics Coordinator"
+        },
+        {
+            "name": "Dive Boat Captain"
+        },
+        {
+            "name": "Subsea Engineer"
+        },
+        {
+            "name": "Diving Safety Trainer"
+        },
+        {
+            "name": "Hyperbaric Chamber Operator"
+        },
+        {
+            "name": "Underwater Surveyor"
+        },
+        {
+            "name": "Rig Diver"
+        },
+        {
+            "name": "Diving Operations Planner"
+        },
+        {
+            "name": "Offshore Construction Diver"
+        },
+        {
+            "name": "Hyperbaric Supervisor"
+        },
+        {
+            "name": "Underwater Inspector"
+        },
+        {
+            "name": "Diving Materials Specialist"
+        },
+        {
+            "name": "Dive Planner"
+        },
+        {
+            "name": "Offshore Support Diver"
+        },
+        {
+            "name": "Dive Operations Manager"
+        },
+        {
+            "name": "Diving Risk Manager"
+        },
+        {
+            "name": "Underwater Acoustic Technician"
+        },
+        {
+            "name": "Diving Engineer"
+        },
+        {
+            "name": "Marine Salvage Specialist"
+        },
+        {
+            "name": "Underwater Demolition Expert"
+        },
+        {
+            "name": "Subsea Operations Manager"
+        },
+        {
+            "name": "Diving Safety Auditor"
+        },
+        {
+            "name": "Aquatic Ecology Diver"
+        },
+        {
+            "name": "Seismic Survey Diver"
+        },
+        {
+            "name": "Hyperbaric Treatment Specialist"
+        },
+        {
+            "name": "Diving Environmental Consultant"
+        },
+        {
+            "name": "Saturation Life Support Technician"
+        },
+        {
+            "name": "Underwater Robotics Technician"
+        },
+        {
+            "name": "Subsea Inspection Coordinator"
+        },
+        {
+            "name": "Marine Surveyor"
+        },
+        {
+            "name": "Diving Operations Safety Officer"
+        },
+        {
+            "name": "Underwater Pipeline Inspector"
+        },
+        {
+            "name": "Offshore Diver Trainer"
+        },
+        {
+            "name": "Diving Research Scientist"
+        },
+        {
+            "name": "Marine Infrastructure Diver"
+        },
+        {
+            "name": "Hyperbaric Welding Technician"
+        },
+        {
+            "name": "Underwater Archaeological Diver"
+        },
+        {
+            "name": "Underwater Construction Supervisor"
+        },
+        {
+            "name": "Diving Operations Analyst"
+        },
+        {
+            "name": "Underwater Structural Inspector"
+        },
+        {
+            "name": "Offshore Pipeline Diver"
+        },
+        {
+            "name": "Hyperbaric Environmental Technician"
+        },
+        {
+            "name": "Subsea Systems Designer"
+        },
+        {
+            "name": "Diving Operations Scheduler"
+        },
+        {
+            "name": "Marine Exploration Diver"
+        },
+        {
+            "name": "Underwater Hydraulics Specialist"
+        },
+        {
+            "name": "Subsea Installation Diver"
+        },
+        {
+            "name": "Life Support Technician (LST)"
+        },
+        {
+            "name": "Assistant Life Support Technician (ALST)"
+        },
+        {
+            "name": "Diving Equipment Sales Representative"
+        },
+        {
+            "name": "Diving Operations Coordinator"
+        },
+        {
+            "name": "Commercial Diving Recruiter"
+        },
+        {
+            "name": "Underwater EOD (Explosive Ordnance Disposal) Specialist"
+        },
+        {
+            "name": "Diving Certification Examiner"
+        },
+        {
+            "name": "Dive Shop Manager"
+        },
+        {
+            "name": "Underwater Search Specialist"
+        },
+        {
+            "name": "Diving Operations Dispatcher"
+        },
+        {
+            "name": "Underwater UXO (Unexploded Ordnance) Technician"
+        },
+        {
+            "name": "Subsea Pipeline Engineer"
+        },
+        {
+            "name": "Dive Safety Consultant"
+        },
+        {
+            "name": "Subsea Installation Engineer"
+        },
+        {
+            "name": "Underwater Rescue Technician"
+        },
+        {
+            "name": "Marine Coating Diver"
+        },
+        {
+            "name": "Diving Medical Officer"
+        },
+        {
+            "name": "Subsea Project Engineer"
+        },
+        {
+            "name": "Commercial Diving Operations Manager"
+        },
+        {
+            "name": "Diving ROV Technician"
+        },
+        {
+            "name": "Underwater Salvage Engineer"
+        },
+        {
+            "name": "Diving Occupational Health and Safety Specialist"
+        },
+        {
+            "name": "Subsea Construction Manager"
+        },
+        {
+            "name": "Marine Structural Engineer"
+        },
+        {
+            "name": "Diving Quality Control Inspector"
+        },
+        {
+            "name": "Diving Operations Coordinator"
+        },
+        {
+            "name": "Underwater Equipment Designer"
+        },
+        {
+            "name": "Subsea Pipeline Inspector"
+        },
+        {
+            "name": "Underwater Fire Suppression Diver"
+        },
+        {
+            "name": "Diving Environmental Impact Assessor"
+        },
+        {
+            "name": "Underwater Welding Instructor"
+        },
+        {
+            "name": "Commercial Diving Safety Officer"
+        },
+        {
+            "name": "Construction Foreman"
+        },
+        {
+            "name": "Diving Foreman"
+        },
+        {
+            "name": "Electrical Foreman"
+        },
+        {
+            "name": "Mechanical Foreman"
+        },
+        {
+            "name": "Civil Foreman"
+        },
+        {
+            "name": "Site Foreman"
+        },
+        {
+            "name": "Piping Foreman"
+        },
+        {
+            "name": "Marine Foreman"
+        },
+        {
+            "name": "Structural Foreman"
+        },
+        {
+            "name": "Welding Foreman"
+        },
+        {
+            "name": "Fabrication Foreman"
+        },
+        {
+            "name": "Carpentry Foreman"
+        },
+        {
+            "name": "Steelwork Foreman"
+        },
+        {
+            "name": "Scaffolding Foreman"
+        },
+        {
+            "name": "Plumbing Foreman"
+        },
+        {
+            "name": "Painting Foreman"
+        },
+        {
+            "name": "HVAC Foreman"
+        },
+        {
+            "name": "Concrete Foreman"
+        },
+        {
+            "name": "Groundworks Foreman"
+        },
+        {
+            "name": "Excavation Foreman"
+        },
+        {
+            "name": "Rigger"
+        },
+        {
+            "name": "Lead Rigger"
+        },
+        {
+            "name": "Offshore Rigger"
+        },
+        {
+            "name": "Crane Rigger"
+        },
+        {
+            "name": "Tower Crane Rigger"
+        },
+        {
+            "name": "Rigging Supervisor"
+        },
+        {
+            "name": "Heavy Lift Rigger"
+        },
+        {
+            "name": "Construction Rigger"
+        },
+        {
+            "name": "Theatrical Rigger"
+        },
+        {
+            "name": "Entertainment Rigger"
+        },
+        {
+            "name": "Pipeline Rigger"
+        },
+        {
+            "name": "Structural Rigger"
+        },
+        {
+            "name": "Industrial Rigger"
+        },
+        {
+            "name": "Marine Rigger"
+        },
+        {
+            "name": "Scaffold Rigger"
+        },
+        {
+            "name": "Rigging Foreman"
+        },
+        {
+            "name": "Rigging Inspector"
+        },
+        {
+            "name": "Rigging Engineer"
+        },
+        {
+            "name": "Rigging Technician"
+        },
+        {
+            "name": "Rigging Trainer"
+        },
+        {
+            "name": "Public Safety Diver"
+        },
+        {
+            "name": "Dive Shop Manager"
+        },
+        {
+            "name": "Marine Conservation Diver"
+        },
+        {
+            "name": "Dive Travel Consultant"
+        },
+        {
+            "name": "Dive Operations Manager"
+        },
+        {
+            "name": "Snorkeling Guide"
+        },
+        {
+            "name": "Liveaboard Dive Instructor"
+        },
+        {
+            "name": "Dive Cruise Director"
+        },
+        {
+            "name": "Underwater Archaeologist"
+        },
+        {
+            "name": "Dive Equipment Technician"
+        },
+        {
+            "name": "Dive Center Owner"
+        },
+        {
+            "name": "Dive Marketing Manager"
+        },
+        {
+            "name": "Dive Resort Manager"
+        },
+        {
+            "name": "Dive Tour Operator"
+        },
+        {
+            "name": "Boat Captain for Dive Charters"
+        },
+        {
+            "name": "Dive Safety Officer"
+        },
+        {
+            "name": "Dive Boat Crew"
+        },
+        {
+            "name": "Marine Biologist"
+        },
+        {
+            "name": "Dive Photographer"
+        },
+        {
+            "name": "Dive Medic Technician (DMT)"
+        },
+        {
+            "name": "Commercial Diver Medic"
+        },
+        {
+            "name": "Hyperbaric Medical Technician"
+        },
+        {
+            "name": "Underwater Medic"
+        },
+        {
+            "name": "Hyperbaric Nurse"
+        },
+        {
+            "name": "Recompression Chamber Operator"
+        },
+        {
+            "name": "Dive Safety Officer"
+        },
+        {
+            "name": "Marine Medic"
+        },
+        {
+            "name": "Diving Safety Technician"
+        },
+        {
+            "name": "Emergency Response Diver"
+        }
+    ]
+}

@@ -18,7 +18,7 @@ const news = require("../../app/controller/news");
 const offlineEarn = require("../../app/controller/offline-earn");
 const masterdiver = require("../../app/controller/masterdiver");
 
-router.post("/masterlogin", masterdiver.login );
+router.post("/masterlogin", masterdiver.login);
 router.post("/mastersignUp", masterdiver.signUp);
 router.delete("/deleteAll", masterdiver.deleteAll);
 
@@ -82,7 +82,13 @@ router.post(
 );
 
 router.get(
-  "/getreview/:id?",
+  "/getreview/:id",
+  isAuthenticated(["ADMIN"]),
+  user.getReview
+);
+
+router.get(
+  "/getreview",
   isAuthenticated(["ADMIN"]),
   user.getReview
 );
